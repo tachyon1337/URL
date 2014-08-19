@@ -1,5 +1,5 @@
 {
-    "name": "Polymer-Url",
+    "name": "polymer-url",
     "description": "Url Library for the Polymer Platform",
     "version": "0.3.5",
     "main": "url.js",
